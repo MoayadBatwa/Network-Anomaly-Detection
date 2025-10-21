@@ -43,8 +43,8 @@ The LSTM, while powerful for sequential data, had the lowest performance in this
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git)
-    cd YOUR-REPOSITORY-NAME
+    git clone (https://github.com/MoayadBatwa/Network-Anomaly-Detection.git)
+    cd Network-Anomaly-Detection.git
     ```
 
 2.  **Install dependencies:**
@@ -60,7 +60,7 @@ The LSTM, while powerful for sequential data, had the lowest performance in this
 4.  **Update the dataset path:**
     Open the Python script and change this line to point to your file's location:
     ```python
-    dataset_path = '/content/UNSW_NB15_dataset.csv' # <-- Change this path!
+    dataset_path = 'UNSW_NB15_dataset.csv'
     ```
 
 5.  **Run the script:**
