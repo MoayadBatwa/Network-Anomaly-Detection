@@ -26,7 +26,7 @@ from tensorflow.keras.optimizers import Adam
 
 # --- Load Data ---
 # !!! IMPORTANT: Replace this path with the actual path to your dataset !!!
-dataset_path = '/content/UNSW_NB15_dataset.csv' 
+dataset_path = 'UNSW_NB15_dataset.csv' 
 data = pd.read_csv(dataset_path)
 
 # --- Inspect and Sample Data ---
