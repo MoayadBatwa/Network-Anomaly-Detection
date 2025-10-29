@@ -1,7 +1,7 @@
 # ----------------------------------------------------------
 # Network Anomaly Detection using Machine Learning and Deep Learning
 # Dataset: UNSW-NB15
-# Moayad Batwa
+# made by: Moayad Batwa
 # ----------------------------------------------------------
 
 # ------------------------------------------------------
