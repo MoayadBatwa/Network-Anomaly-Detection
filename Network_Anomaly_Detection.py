@@ -2,7 +2,7 @@
 # Network Anomaly Detection using Machine Learning and Deep Learning
 # Dataset: UNSW-NB15
 # made by: Moayad Batwa
-# ----------------------------------------------------------
+# ---------------------------------------------------------
 
 # --------------------------------------------------------
 # Step 1: Import All Necessary Libraries
